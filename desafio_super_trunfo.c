@@ -29,7 +29,7 @@ int main() {
     scanf("%d", &quantidade_populacional);
 
     printf("Qual a area em Km?\n");
-    scanf("%lf", &area_km);/
+    scanf("%lf", &area_km);
 
     printf("Qual o PIB (Produto Interno Bruto)?\n");
     scanf("%lf", &produto_ib);
